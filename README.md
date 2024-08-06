@@ -1,4 +1,5 @@
 Text_to_Image
+
 Text_to_Image is a project that utilizes Stable Diffusion to convert textual descriptions into high-quality images. The application filters out unwanted features using a negative prompt to ensure the generated images meet quality standards.
 
 Features
