@@ -8,7 +8,6 @@ Filters out common issues like low quality, duplicates, and errors with a negati
 Simple and user-friendly interface
 Installation
 To get started, clone the repository and install the necessary dependencies:
-
 bash
 Copy code
 git clone https://github.com/pradeepsengarr/Text_to_Image.git
